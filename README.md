@@ -53,7 +53,7 @@
 
 ![open](./imgs/open.png)
 
-计算出标准差为![](http://latex.codecogs.com/gif.latex?\\\sigma = 0.986)，变异系数![](http://latex.codecogs.com/gif.latex?\\CV = 0.141)。可以说这个特征与标签是弱相关的，可以剔除。
+计算出标准差为<img src="http://latex.codecogs.com/gif.latex?\sigma=0.986" border="0"/>，变异系数<img src="http://latex.codecogs.com/gif.latex?CV=0.986" border="0"/>。可以说这个特征与标签是弱相关的，可以剔除。
 
 ## 2 模型的构建和训练
 
